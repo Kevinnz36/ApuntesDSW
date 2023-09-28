@@ -1,0 +1,14 @@
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Datos\bin\Debug\BDatosPrueba.mdf
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Datos\bin\Debug\BDatosPrueba_log.ldf
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Datos\bin\Debug\Datos.dll.config
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Datos\bin\Debug\Datos.dll
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Datos\bin\Debug\Datos.pdb
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Datos\bin\Debug\EntityFramework.dll
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Datos\bin\Debug\EntityFramework.xml
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Datos\obj\Debug\Datos.dll
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Datos\obj\Debug\Datos.pdb

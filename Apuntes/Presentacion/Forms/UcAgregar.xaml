@@ -1,0 +1,34 @@
+﻿<UserControl x:Class="Presentacion.Forms.UcAgregar"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Presentacion.Forms"
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="650" Background="#FF7C81AD">
+    <Grid>
+        <Label x:Name="lblTitulo" Content="Agregar una tarea" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontFamily="Bahnschrift SemiBold" FontSize="16"/>
+        <Label x:Name="lblTit" Content="Titulo" HorizontalAlignment="Left" Margin="24,71,0,0" VerticalAlignment="Top" FontFamily="Bahnschrift SemiLight" FontSize="14"/>
+        <TextBox x:Name="txtTitulo" HorizontalAlignment="Left" Margin="185,68,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="140" Height="30" VerticalContentAlignment="Bottom"/>
+        <Label x:Name="lblCuerpo" Content="Cuerpo" HorizontalAlignment="Left" Margin="24,130,0,0" VerticalAlignment="Top" FontFamily="Bahnschrift SemiLight" FontSize="14"/>
+        <TextBox x:Name="txtCuerpo" HorizontalAlignment="Left" Margin="185,130,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="140" Height="120"/>
+        <Label x:Name="lblFecha" Content="Fecha de V." HorizontalAlignment="Left" Margin="24,276,0,0" VerticalAlignment="Top" FontFamily="Bahnschrift SemiLight" FontSize="14"/>
+        <DatePicker x:Name="dpFechaVenc" HorizontalAlignment="Left" Margin="185,279,0,0" VerticalAlignment="Top" Width="140" Height="24"/>
+        <Label x:Name="lblCat" Content="Categoría" HorizontalAlignment="Left" Margin="24,329,0,0" VerticalAlignment="Top" FontFamily="Bahnschrift SemiLight" FontSize="14"/>
+        <ComboBox x:Name="cmbCategorias" HorizontalAlignment="Left" Margin="185,331,0,0" VerticalAlignment="Top" Width="140" Height="30"/>
+        <Button x:Name="btnCancelar" Content="✘" HorizontalAlignment="Left" Margin="295,402,0,0" VerticalAlignment="Top" Width="30" Height="30" Background="#FFFF6969" Click="btnCancelar_Click"/>
+        <Button x:Name="btnAceptar" Content="✔" HorizontalAlignment="Left" Margin="185,402,0,0" VerticalAlignment="Top" Width="30" Height="30" Background="#FF79AC78" Click="btnAceptar_Click"/>
+        <Button x:Name="btnEliminar" Content="✂" HorizontalAlignment="Left" Margin="594,457,0,0" VerticalAlignment="Top" Width="30" Height="30" Background="#FFFF6969" Click="btnEliminar_Click"/>
+        <DataGrid x:Name="dgListadoTareas" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="365,11,61,57" AutoGenerateColumns="False" ColumnWidth="*" IsReadOnly="True" Loaded="dgListadoTareas_Loaded">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Titulo" Binding="{Binding Titulo}"/>
+                <DataGridTextColumn Header="Cuerpo" Binding="{Binding Cuerpo}"/>
+                <DataGridTextColumn Header="Fecha C" Binding="{Binding FechaCreacion}"/>
+                <DataGridTextColumn Header="Fecha V" Binding="{Binding FechaVencimiento}"/>
+                <DataGridTextColumn Header="Estado" Binding="{Binding Estado}"/>
+                <DataGridTextColumn Header="Categoria" Binding="{Binding Categoria}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</UserControl>

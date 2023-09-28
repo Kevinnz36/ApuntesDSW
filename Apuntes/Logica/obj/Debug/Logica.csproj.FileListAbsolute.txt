@@ -1,0 +1,17 @@
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Logica\bin\Debug\BDatosPrueba.mdf
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Logica\bin\Debug\BDatosPrueba_log.ldf
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Logica\bin\Debug\Logica.dll.config
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Logica\bin\Debug\Logica.dll
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Logica\bin\Debug\Logica.pdb
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Logica\bin\Debug\Datos.dll
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Logica\bin\Debug\EntityFramework.dll
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Logica\bin\Debug\EntityFramework.SqlServer.dll
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Logica\bin\Debug\Datos.pdb
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Logica\bin\Debug\Datos.dll.config
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Logica\bin\Debug\EntityFramework.xml
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Logica\bin\Debug\EntityFramework.SqlServer.xml
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Logica\obj\Debug\Logica.csproj.CopyComplete
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Logica\obj\Debug\Logica.dll
+D:\Codigos\Clases\Taller Desarrollo Sw\2-wpf\Testeo\SolucionPrueba\Logica\obj\Debug\Logica.pdb

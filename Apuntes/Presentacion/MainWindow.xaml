@@ -1,0 +1,26 @@
+﻿<Window x:Class="Presentacion.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="850">
+    <Grid Background="#FF7C81AD" Grid.Column="0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel x:Name="stkPanel">
+            <TextBlock x:Name="txbTitulo" TextWrapping="Wrap"  FontFamily="Bahnschrift SemiBold" FontSize="16" HorizontalAlignment="Center" Height="51"><Run/><LineBreak/><Run Text="Menú de Opciones"/></TextBlock>
+            <Button x:Name="btnInicio" Content="Inicio" Background="#FF7C81AD" BorderBrush="{x:Null}" Height="33" FontFamily="Bahnschrift SemiLight" FontSize="14" Click="btnInicio_Click"/>
+            <Button x:Name="btnAgregar" Content="Agregar Tareas" Background="#FF7C81AD" BorderBrush="{x:Null}" Height="33" FontFamily="Bahnschrift SemiLight" FontSize="14" Click="btnAgregar_Click"/>
+            <Button x:Name="btnListar" Content="Agregar Categorias" Background="#FF7C81AD" BorderBrush="{x:Null}" Height="33" FontFamily="Bahnschrift SemiLight" FontSize="14" Click="btnListar_Click"/>
+        </StackPanel>
+
+        <Grid Name="grdMain" Grid.Column="1">
+            
+        </Grid>
+
+    </Grid>
+</Window>
